@@ -1,2 +1,2 @@
-# Info490
+# Intro Python
 Work from 
